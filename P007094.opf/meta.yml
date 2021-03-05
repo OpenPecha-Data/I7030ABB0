@@ -1,15 +1,16 @@
-id: opecha:P007094
+id: P007094
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W2PD14767
   title: སྨན་མདོ་དང་འོད་མདོ།
-  volume:
+  author: ''
+  volumes:
     4af6a887c6bb4c7ba3733f1b58eae748:
       image_group_id: I4PD952
       title: Volume 1 of sman mdo dang 'od mdo/
       volume_number: 1
       total_pages: 238
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: སྨན་མདོ་དང་འོད་མདོ།
   author: ''
